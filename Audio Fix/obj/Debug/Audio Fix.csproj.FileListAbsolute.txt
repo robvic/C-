@@ -1,0 +1,10 @@
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio Fix.csprojAssemblyReference.cache
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio_Fix.frmIDSearch.resources
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio_Fix.Properties.Resources.resources
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio Fix.csproj.GenerateResource.cache
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio Fix.csproj.CoreCompileInputs.cache
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\bin\Debug\Audio Fix.exe.config
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\bin\Debug\Audio Fix.exe
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\bin\Debug\Audio Fix.pdb
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio Fix.exe
+D:\OneDrive - Globo Comunicação e Participações sa\03.Projetos\Globo - Audio Fix\Audio Fix\obj\Debug\Audio Fix.pdb
